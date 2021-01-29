@@ -1,0 +1,31 @@
+# Built files
+/build/
+/dist/
+stats.json
+
+# Node
+/node_modules/
+none
+
+# Sass
+.sass-cache/
+
+# OS X metadata
+.DS_Store
+
+# Windows junk
+Thumbs.db
+
+# Composer libs
+/vendor/
+
+# IDE generated files
+.vscode
+.idea
+.nova
+
+# nvm
+.nvmrc
+
+# Ignore editor symbols file
+.tags
