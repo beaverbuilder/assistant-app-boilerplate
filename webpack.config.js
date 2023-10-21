@@ -20,8 +20,8 @@ const config = {
 		
 		/* Assistant-provided vendor libraries */
 		'react-router-dom': 'ReactRouterDOM',
-		'framer-motion': FramerMotion,
-		'redux': Redux,
+		'framer-motion': 'FramerMotion',
+		'redux': 'Redux',
 		
 		/* Assistant API */
 		'assistant': 'FL.Assistant',
